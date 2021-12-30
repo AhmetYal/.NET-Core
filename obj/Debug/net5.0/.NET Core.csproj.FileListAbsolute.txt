@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\.NET Core\bin\Debug\net5.0\.NET Core.exe
+C:\Users\Lenovo\Desktop\.NET Core\bin\Debug\net5.0\.NET Core.deps.json
+C:\Users\Lenovo\Desktop\.NET Core\bin\Debug\net5.0\.NET Core.runtimeconfig.json
+C:\Users\Lenovo\Desktop\.NET Core\bin\Debug\net5.0\.NET Core.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\.NET Core\bin\Debug\net5.0\.NET Core.dll
+C:\Users\Lenovo\Desktop\.NET Core\bin\Debug\net5.0\ref\.NET Core.dll
+C:\Users\Lenovo\Desktop\.NET Core\bin\Debug\net5.0\.NET Core.pdb
+C:\Users\Lenovo\Desktop\.NET Core\obj\Debug\net5.0\.NET Core.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\.NET Core\obj\Debug\net5.0\.NET Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\.NET Core\obj\Debug\net5.0\.NET Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\.NET Core\obj\Debug\net5.0\.NET Core.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\.NET Core\obj\Debug\net5.0\.NET Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\.NET Core\obj\Debug\net5.0\.NET Core.dll
+C:\Users\Lenovo\Desktop\.NET Core\obj\Debug\net5.0\ref\.NET Core.dll
+C:\Users\Lenovo\Desktop\.NET Core\obj\Debug\net5.0\.NET Core.pdb
+C:\Users\Lenovo\Desktop\.NET Core\obj\Debug\net5.0\.NET Core.genruntimeconfig.cache
